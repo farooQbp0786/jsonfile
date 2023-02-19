@@ -20,10 +20,42 @@
                     {
                         "name": "Subject One",
                         "code": "Course Code One",
-                        "notes": [],
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj"
+                            }
+                            ],
                         "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": []
+                        "syllabus": "1J8KvEDAP7QlcLb7nMfuH49FNDjNV1hlj",
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject Two",
@@ -31,7 +63,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "two": [
@@ -41,7 +74,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 4",
@@ -49,7 +83,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "three": [
@@ -59,7 +94,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 6",
@@ -67,7 +103,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "four": [
@@ -77,7 +114,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 8",
@@ -85,7 +123,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "five": [
@@ -95,7 +134,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 10",
@@ -103,7 +143,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "six": [
@@ -113,7 +154,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 12",
@@ -121,7 +163,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "seven": [
@@ -131,7 +174,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 14",
@@ -139,7 +183,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "eight": [
@@ -149,7 +194,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 16",
@@ -157,7 +203,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ]
             }
@@ -166,20 +213,22 @@
             {
                 "one": [
                     {
-                        "name": "Subject One",
-                        "code": "Course Code One",
+                        "name": "Subject One1",
+                        "code": "Course Code",
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
-                        "name": "Subject Two",
-                        "code": "Course Code Two",
+                        "name": "Subject Two1",
+                        "code": "Course Code",
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "two": [
@@ -189,7 +238,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 4",
@@ -197,7 +247,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "three": [
@@ -207,7 +258,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 6",
@@ -215,7 +267,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "four": [
@@ -225,7 +278,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 8",
@@ -233,7 +287,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "five": [
@@ -243,7 +298,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 10",
@@ -251,7 +307,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "six": [
@@ -261,7 +318,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 12",
@@ -269,7 +327,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "seven": [
@@ -279,7 +338,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 14",
@@ -287,7 +347,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ],
                 "eight": [
@@ -297,7 +358,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     },
                     {
                         "name": "Subject 16",
@@ -305,7 +367,8 @@
                         "notes": [],
                         "questionPaper": [],
                         "syllabus": "",
-                        "textBooks": []
+                        "textBooks": [],
+                        "videos": []
                     }
                 ]
             }
