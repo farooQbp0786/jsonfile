@@ -5,13 +5,13 @@
                 "key": 1,
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
-                "image": "../../assets/slider.jpeg"
+                "image": "https://github.com/farooQbp0786/jsonfile/raw/main/slider.jpeg"
             },
             {
                 "key": 2,
                 "title": "Item 2",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
-                "image": "../../assets/slider.jpeg"
+                "image": "https://github.com/farooQbp0786/jsonfile/raw/main/slider.jpeg"
             }
         ],
         "scheme2015": [
