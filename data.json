@@ -1,0 +1,314 @@
+{
+    "mechKTU": {
+        "slider": [
+            {
+                "key": 1,
+                "title": "Item 1",
+                "link": "https://api.whatsapp.com/send?phone=917012865409",
+                "image": "../../assets/slider.jpeg"
+            },
+            {
+                "key": 2,
+                "title": "Item 2",
+                "link": "https://api.whatsapp.com/send?phone=917012865409",
+                "image": "../../assets/slider.jpeg"
+            }
+        ],
+        "scheme2015": [
+            {
+                "one": [
+                    {
+                        "name": "Subject One",
+                        "code": "Course Code One",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject Two",
+                        "code": "Course Code Two",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "two": [
+                    {
+                        "name": "Subject 3",
+                        "code": "Course Code 3",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 4",
+                        "code": "Course Code 4",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "three": [
+                    {
+                        "name": "Subject 5",
+                        "code": "Course Code 5",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 6",
+                        "code": "Course Code 6",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "four": [
+                    {
+                        "name": "Subject 7",
+                        "code": "Course Code 7",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 8",
+                        "code": "Course Code 8",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "five": [
+                    {
+                        "name": "Subject 9",
+                        "code": "Course Code 9",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 10",
+                        "code": "Course Code 10",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "six": [
+                    {
+                        "name": "Subject 11",
+                        "code": "Course Code 11",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 12",
+                        "code": "Course Code 12",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "seven": [
+                    {
+                        "name": "Subject 13",
+                        "code": "Course Code 13",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 14",
+                        "code": "Course Code 14",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "eight": [
+                    {
+                        "name": "Subject 15",
+                        "code": "Course Code 15",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 16",
+                        "code": "Course Code 16",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ]
+            }
+        ],
+        "scheme2019": [
+            {
+                "one": [
+                    {
+                        "name": "Subject One",
+                        "code": "Course Code One",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject Two",
+                        "code": "Course Code Two",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "two": [
+                    {
+                        "name": "Subject 3",
+                        "code": "Course Code 3",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 4",
+                        "code": "Course Code 4",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "three": [
+                    {
+                        "name": "Subject 5",
+                        "code": "Course Code 5",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 6",
+                        "code": "Course Code 6",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "four": [
+                    {
+                        "name": "Subject 7",
+                        "code": "Course Code 7",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 8",
+                        "code": "Course Code 8",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "five": [
+                    {
+                        "name": "Subject 9",
+                        "code": "Course Code 9",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 10",
+                        "code": "Course Code 10",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "six": [
+                    {
+                        "name": "Subject 11",
+                        "code": "Course Code 11",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 12",
+                        "code": "Course Code 12",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "seven": [
+                    {
+                        "name": "Subject 13",
+                        "code": "Course Code 13",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 14",
+                        "code": "Course Code 14",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ],
+                "eight": [
+                    {
+                        "name": "Subject 15",
+                        "code": "Course Code 15",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    },
+                    {
+                        "name": "Subject 16",
+                        "code": "Course Code 16",
+                        "notes": [],
+                        "questionPaper": [],
+                        "syllabus": "",
+                        "textBooks": []
+                    }
+                ]
+            }
+        ]
+    }
+}
