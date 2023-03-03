@@ -17,10 +17,302 @@
         ],
         "scheme2015": [
             {
-                "one": [
+                "three": [
                     {
-                        "name": "Subject One",
-                        "code": "Course Code One",
+                        "name": "Linear Algebra and Complex Analysis",
+                        "code": "MA201",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1bTJdNwuJlr7VCj3hHuPA-b3odb7cVwu8"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1PDZ4_88woxQ_-q8Xj6xGvL-xVbg5sWY9"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1KkIIP0Ak1bcIJXoO4WNBhINQmFTZ2Asj"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "127ARcMKMcS2NazJdtxEAJreadYU5y_53"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1pWhxrZTZU8Kqy2_a27oCTv9iopFA111Q"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1PR2nZhHk4J9g9Yq0YWqdmmVygQD9ZGjC"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/MA201.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Mechanics of Solids",
+                        "code": "ME201",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "10B1dVWr8TkrSDbvdb3ntk7mmy_ahn-jr"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1axI2RbKvONNlpUmq-jA0fOD69bBn0Nho"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1YUSdKmEChLxZgcuCv7wL9ExUJGU5QYKe"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1oBY6pVf1n7qcY8eh6var6RmN7VC-H8yN"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1yIH7_GnkSobnxnYDhuNsTQ-DYHM51AW5"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1pBxiK0Q92XT7-nrUkJB5yIf1eCvukqr_"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME201.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Mechanics of Fluids",
+                        "code": "ME203",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1K8hHptV6dOyZgV90kDw0sb3DaBUDJYkO"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1WyM7SyieKeRbUR0tqto4XyXGVKgKgG_R"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1Ey7-_JkLYIU990L7KSpU7cN0x85Bk-xf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1qRgdnSuSaLrkxhiI794LCDf4YBOjAZ5r"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1byB0ev_Zns52nGdETf9cRdAaUxcNaKwJ"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1_8ArLaM2ApNE9uoAu9-2u2NH7P1T0bNh"
+                            },
+                            {
+                                "key": 7,
+                                "name": "Module 6",
+                                "driveID": "1DVAP-sr8avfvPD2Ja1HJygmZ3M2UljtV"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME203.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Thermodynamics",
+                        "code": "ME205",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1GSS8xyqI-IBb6s7uPOHVh-TkmoEPUQ-o"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1giNTHBdgTulJAgBSQNLRuOxyFNfTmIVN"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1MV_xSHXClDyqPfKmb65KNRAt_Wck9HJU"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1LOpKMAxjLi62yVRhFf75ox_DGLv9igKY"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1lPJHBe5F8iwkgX-yCOZHPrV0jyj4Qi52"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1B96a8xl1_lreLUbwPI-dTd4voUwhktav"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME205.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Metallurgy & Material Science",
+                        "code": "ME210",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1M3rQHTi_YunrqetWipT7R0zpxpyYviGj"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1cgqRHnt-VpK3_sIbzC1o0JtHiOGXWiAv"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1iHQLUPlIsl3bh92jJUUO5umKPBuVwgOO"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1FQ_n03F8VhfQNYFg2YT641ZwCnH0WQjM"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1MShv2gpK_FzAka6ZsdzAqWJwIpq_qa5b"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1TAGzV0Gvk4kwKBTiv7SEpH_vFHvvLTYE"
+                            },
+                            {
+                                "key": 7,
+                                "name": "Short Notes",
+                                "driveID": "1jd0UR3R8s4kRDvOE4I_owlYWepyp9br7"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME210.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Business Economics",
+                        "code": "HS200",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "167GObvvWYyC9lGGyFw7TMyG1vtIVi_TH"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1SRHeNtke0c04I0lNDfnsRIGVwZzDeqVK"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1BEpzfx1aPq3njjJmV304xPnI6wyHdPS5"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1E_5yIyMHZ-ezGgMJIudyg8yacocMuuBo"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1HqHo2s9v6CtfcurBIeYww8R-Jqin0hbf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1LDC_7zSbJ5d3bCuvH167PzM_Ngsm3kjt"
+                            },
+                            {
+                                "key": 7,
+                                "name": "Module 6",
+                                "driveID": "1nYqWW1G1J88fNYmYgsZ4LxBr0gXWooLr"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/HS200.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Life Skills",
+                        "code": "HS210",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1ETpgg_ThcvgKGa04pGL3lrJCTvozfde9"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1o87Wb_tyPHooFCl0JPfUnNTAZ7A77Bw5"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1h5PhBtUrg2T_ZlIbokTOTvQ1yUd1WNjM"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1SLG1y6I8gLPcTidLlUZJu5qK4uvgQgS-"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1MmI-PqmxeGYkUy0xlKmX-uMqr83LuNZ2"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/HS210.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    }
+                ],
+                "four": [
+                    {
+                        "name": "Probability Distribution Transforms",
+                        "code": "MA202",
                         "notes": [
                             {
                                 "key": 1,
@@ -52,158 +344,977 @@
                                 "name": "Module 6",
                                 "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
                             }
-                            ],
+                        ],
                         "questionPaper": [],
-                        "syllabus": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf",
+                        "syllabus": "/uploads/syllabus/2/2016/ME202.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject Two",
-                        "code": "Course Code Two",
-                        "notes": [],
+                        "name": "Advanced Mechanics of Solids ",
+                        "code": "ME202",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": [],
-                        "videos": []
-                    }
-                ],
-                "two": [
-                    {
-                        "name": "Subject 3",
-                        "code": "Course Code 3",
-                        "notes": [],
-                        "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": [],
-                        "videos": []
-                    },
-                    {
-                        "name": "Subject 4",
-                        "code": "Course Code 4",
-                        "notes": [],
-                        "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": [],
-                        "videos": []
-                    }
-                ],
-                "three": [
-                    {
-                        "name": "Subject 5",
-                        "code": "Course Code 5",
-                        "notes": [],
-                        "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": [],
-                        "videos": []
-                    },
-                    {
-                        "name": "Subject 6",
-                        "code": "Course Code 6",
-                        "notes": [],
-                        "questionPaper": [],
-                        "syllabus": "",
-                        "textBooks": [],
-                        "videos": []
-                    }
-                ],
-                "four": [
-                    {
-                        "name": "Subject 7",
-                        "code": "Course Code 7",
-                        "notes": [],
-                        "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/Advanced_Mechanics_of_Solids-ME202.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject 8",
-                        "code": "Course Code 8",
-                        "notes": [],
+                        "name": "Thermal Engineering",
+                        "code": "ME204",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/2/2016/ME204.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Fluid Machinery",
+                        "code": "ME206",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME206.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Manufacturing Technology",
+                        "code": "ME220",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/ME220.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Business Economics",
+                        "code": "HS200",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "167GObvvWYyC9lGGyFw7TMyG1vtIVi_TH"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1SRHeNtke0c04I0lNDfnsRIGVwZzDeqVK"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1BEpzfx1aPq3njjJmV304xPnI6wyHdPS5"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1E_5yIyMHZ-ezGgMJIudyg8yacocMuuBo"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1HqHo2s9v6CtfcurBIeYww8R-Jqin0hbf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1LDC_7zSbJ5d3bCuvH167PzM_Ngsm3kjt"
+                            },
+                            {
+                                "key": 7,
+                                "name": "Module 6",
+                                "driveID": "1nYqWW1G1J88fNYmYgsZ4LxBr0gXWooLr"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/HS200.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Life Skills",
+                        "code": "HS210",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1ETpgg_ThcvgKGa04pGL3lrJCTvozfde9"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1o87Wb_tyPHooFCl0JPfUnNTAZ7A77Bw5"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1h5PhBtUrg2T_ZlIbokTOTvQ1yUd1WNjM"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1SLG1y6I8gLPcTidLlUZJu5qK4uvgQgS-"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1MmI-PqmxeGYkUy0xlKmX-uMqr83LuNZ2"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/2/2016/HS210.pdf",
                         "textBooks": [],
                         "videos": []
                     }
                 ],
                 "five": [
                     {
-                        "name": "Subject 9",
-                        "code": "Course Code 9",
-                        "notes": [],
+                        "name": "Mechanics of Machinery",
+                        "code": "ME301",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/3/2016/ME301.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject 10",
-                        "code": "Course Code 10",
-                        "notes": [],
+                        "name": "Machine Tools & Digital Manufacturing",
+                        "code": "ME303",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/3/2016/ME303.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Computer Programming & Numerical Methods",
+                        "code": "ME305",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/ME305.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Electrical Drives & Control  for Automat",
+                        "code": "EE311",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/EE311.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Principles of Management",
+                        "code": "HS300",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/HS300.pdf",
                         "textBooks": [],
                         "videos": []
                     }
                 ],
                 "six": [
                     {
-                        "name": "Subject 11",
-                        "code": "Course Code 11",
-                        "notes": [],
+                        "name": "Heat and Mass Transfer",
+                        "code": "ME302",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/3/2016/ME302.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject 12",
-                        "code": "Course Code 12",
-                        "notes": [],
+                        "name": "Dynamics of Machinery",
+                        "code": "ME304",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/3/2016/ME304.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Advanced Manufacturing Technology",
+                        "code": "ME306",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/ME306.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Computer Aided Design & Analysis",
+                        "code": "ME308",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/ME308.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Metrology & Instrumentation",
+                        "code": "ME312",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/ME312.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Comprehensive Examination",
+                        "code": "ME352",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/3/2016/ME352.pdf",
                         "textBooks": [],
                         "videos": []
                     }
                 ],
                 "seven": [
                     {
-                        "name": "Subject 13",
-                        "code": "Course Code 13",
-                        "notes": [],
+                        "name": "Design of Machine Elements 1",
+                        "code": "ME401",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/4/2016/ME401.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject 14",
-                        "code": "Course Code 14",
-                        "notes": [],
+                        "name": "Advanced Energy Engineering",
+                        "code": "ME403",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/4/2016/ME403.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Refrigeration & Air Conditioning",
+                        "code": "ME405",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/4/2016/ME405 RAC.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Mechatronics",
+                        "code": "ME407",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/4/2016/ME407.pdf",
+                        "textBooks": [],
+                        "videos": []
+                    },
+                    {
+                        "name": "Compressible Fluid Flow",
+                        "code": "ME409",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
+                        "questionPaper": [],
+                        "syllabus": "/uploads/syllabus/4/2016/ME409.pdf",
                         "textBooks": [],
                         "videos": []
                     }
                 ],
                 "eight": [
                     {
-                        "name": "Subject 15",
-                        "code": "Course Code 15",
-                        "notes": [],
+                        "name": "Design of Machine Elements 2",
+                        "code": "ME402",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/4/2016/ME402.pdf",
                         "textBooks": [],
                         "videos": []
                     },
                     {
-                        "name": "Subject 16",
-                        "code": "Course Code 16",
-                        "notes": [],
+                        "name": "Industrial Engineering",
+                        "code": "ME404",
+                        "notes": [
+                            {
+                                "key": 1,
+                                "name": "Module 1",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 2,
+                                "name": "Module 2",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 3,
+                                "name": "Module 3",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 4,
+                                "name": "Module 4",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 5,
+                                "name": "Module 5",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            },
+                            {
+                                "key": 6,
+                                "name": "Module 6",
+                                "driveID": "1A1Ya4qFgpvub6AunvZrGpnzmQuo8EmMf"
+                            }
+                        ],
                         "questionPaper": [],
-                        "syllabus": "",
+                        "syllabus": "/uploads/syllabus/4/2016/ME404.pdf",
                         "textBooks": [],
                         "videos": []
                     }
