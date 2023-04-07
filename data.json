@@ -11,8 +11,14 @@
             {
                 "key": 2,
                 "title": "Item 2",
-                "link": "https://www.smeclabs.com/lucky-draw-2023/",
+                "link": "https://www.smeclabs.com/internship/",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/smec.jpg"
+            },
+            {
+                "key": 3,
+                "title": "Item 3",
+                "link": "http://bit.ly/pace_intern",
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/pacelap.png"
             }
         ],
         "scheme2015": [
