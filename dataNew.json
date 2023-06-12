@@ -13,19 +13,8 @@
                 "title": "Item 2",
                 "link": "https://www.smeclabs.com/internship",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/smec1.jpg"
-            },
-            {
-                "key": 3,
-                "title": "Item 3",
-                "link": "http://bit.ly/pace_intern",
-                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/pacelap.png"
-            },
-            {
-                "key": 4,
-                "title": "Item 4",
-                "link": "http://bit.ly/pace_intern",
-                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/pacelabautocad.jpg"
             }
+            
         ],
         "scheme2015": [
             {
