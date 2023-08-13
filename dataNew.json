@@ -7,14 +7,7 @@
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/mechktu.png"
-            },
-            {
-                "key": 2,
-                "title": "Item 2",
-                "link": "https://www.smeclabs.com/internship",
-                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/smec1.jpg"
             }
-            
         ],
         "scheme2015": [
             {
