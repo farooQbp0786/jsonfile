@@ -7,6 +7,12 @@
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/mechktu.png"
+            }, 
+            {
+                "key": 2,
+                "title": "Item 2",
+                "link": "https://bit.ly/credit-transfer-info",
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/IMG-20230820-WA0011.jpg"
             }
         ],
         "scheme2015": [
