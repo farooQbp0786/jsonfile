@@ -13,6 +13,12 @@
                 "title": "Item 2",
                 "link": "https://www.smeclabs.com/internship/",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/smecintern4.jpg"
+            }, 
+            {
+                "key": 3,
+                "title": "Item 3",
+                "link": "https://bit.ly/uc-transfer",
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/ucImg1.jpg"
             }
         ],
         "scheme2015": [
