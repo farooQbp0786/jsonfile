@@ -6,20 +6,14 @@
                 "key": 0,
                 "title": "Item 0",
                 "link": "https://bit.ly/paceintern24",
-                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/paceintern.png"
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/paceintern.jpg"
             }, 
             {
                 "key": 1,
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/mechktu.png"
-            }, 
-            {
-                "key": 2,
-                "title": "Item 2",
-                "link": "https://www.smeclabs.com/internship/",
-                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/smecintern4.jpg"
-            }, 
+            },
             {
                 "key": 3,
                 "title": "Item 3",
