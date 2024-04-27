@@ -10,6 +10,12 @@
             }, 
             {
                 "key": 1,
+                "title": "Item 0",
+                "link": "https://bit.ly/paceintern24",
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/capace.png"
+            }, 
+            {
+                "key": 2,
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
                 "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/mechktu.png"
