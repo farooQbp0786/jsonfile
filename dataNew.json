@@ -3,6 +3,12 @@
         "driveCode": "AIzaSyClQhyFRk3I_yxPd6zvEDkfLheWj40Zhmc",
         "slider": [
             {
+                "key": 0,
+                "title": "Item 0",
+                "link": "https://bit.ly/uc-transfer",
+                "image": "https://raw.githubusercontent.com/farooQbp0786/jsonfile/main/ucImg1.jpg"
+            },
+            {
                 "key": 1,
                 "title": "Item 1",
                 "link": "https://api.whatsapp.com/send?phone=917012865409",
